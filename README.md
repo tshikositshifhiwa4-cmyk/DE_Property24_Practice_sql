@@ -18,7 +18,7 @@ Identify high-value and affordable regions
 
 Extract insights on income requirements and property distribution
 
- # SQL Concepts Covered
+## SQL Concepts Covered
 
 SELECT statements
 
@@ -46,7 +46,7 @@ MIN()
 
 MAX()
 
-# Key Analytical Insights
+## Key Analytical Insights
 
 The project answers business-style questions such as:
 
