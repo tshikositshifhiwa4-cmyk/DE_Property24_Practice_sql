@@ -1,0 +1,1 @@
+# DE_Property24_Practice_sql
